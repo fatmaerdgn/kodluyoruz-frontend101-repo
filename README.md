@@ -4,13 +4,13 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ``` markdown
      ![Ekran Görüntüsü](./Görseller/screenshot.png)
-     ```
+```
 
 ## Installation
 
-Öncelikle projeyi clonelayin
+Öncelikle projeyi klonlayın:
 ```bash
-git clone https://github.com/fatmaerdgn/kodluyoruzilkrepo.git
+    git clone https://github.com/fatmaerdgn/kodluyoruzilkrepo.git
 ```
 
 ## Usage
