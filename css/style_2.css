@@ -1,0 +1,77 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: #000;
+}
+
+.container {
+    margin: 20px auto;
+    width: 80%;
+}
+
+.beta {
+    font-size: 20px;
+    color: gray;
+    position: relative;
+    top: -20px;
+    left: 5px;
+}
+
+.arama p {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.arama input {
+    width: 60%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.buttons button {
+    margin: 5px;
+    padding: 5px 15px;
+    background-color: #f2f2f2;
+    border: 1px solid #dcdcdc;
+    cursor: pointer;
+}
+
+.buttons button:hover {
+    background-color: #e7e7e7;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #98dcec;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.special-search, .help-links, .updates {
+    text-align: left;
+}
+
+.special-search h4, .updates h4 {
+    margin: 0 0 10px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-size: 14px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    margin-top: 10px;
+    font-size: 12px;
+    color: gray;
+}
